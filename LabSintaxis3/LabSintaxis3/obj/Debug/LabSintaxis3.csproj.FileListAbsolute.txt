@@ -1,0 +1,7 @@
+C:\Users\braia\Documents\.NET\labs\LabSintaxis2\LabSintaxis3\LabSintaxis3\bin\Debug\LabSintaxis3.exe.config
+C:\Users\braia\Documents\.NET\labs\LabSintaxis2\LabSintaxis3\LabSintaxis3\bin\Debug\LabSintaxis3.exe
+C:\Users\braia\Documents\.NET\labs\LabSintaxis2\LabSintaxis3\LabSintaxis3\bin\Debug\LabSintaxis3.pdb
+C:\Users\braia\Documents\.NET\labs\LabSintaxis2\LabSintaxis3\LabSintaxis3\obj\Debug\LabSintaxis3.csprojAssemblyReference.cache
+C:\Users\braia\Documents\.NET\labs\LabSintaxis2\LabSintaxis3\LabSintaxis3\obj\Debug\LabSintaxis3.csproj.CoreCompileInputs.cache
+C:\Users\braia\Documents\.NET\labs\LabSintaxis2\LabSintaxis3\LabSintaxis3\obj\Debug\LabSintaxis3.exe
+C:\Users\braia\Documents\.NET\labs\LabSintaxis2\LabSintaxis3\LabSintaxis3\obj\Debug\LabSintaxis3.pdb
